@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Country profile Demo</string>
+    <string name="bangladesh_button">Bangladesh</string>
+    <string name="india_button">India</string>
+    <string name="pakistan_button">Pakistan</string>
+    <string name="bangladesh_details">Bangladesh, to the east of India on the Bay of Bengal, is a South Asian country marked by lush greenery and many waterways.
+        Its Padma (Ganges), Meghna and Jamuna rivers create fertile plains,
+        and travel by boat is common. On the southern coast, the Sundarbans,
+        an enormous mangrove forest shared with Eastern India, is home to the royal Bengal tiger.</string>
+    <string name="india_details">India, officially the Republic of India, is a country in South Asia. It is the seventh-largest country by area, the second-most populous country, and the most populous democracy in the world.</string>
+    <string name="pakistan_details">Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the world\'s fifth-most populous country with a population exceeding 212.2 million. In area, it is the 33rd-largest country, spanning 881,913 square kilometres</string>
+
+
+</resources>

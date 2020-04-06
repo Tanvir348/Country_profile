@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#786A6A"
+    tools:context=".Main2Activity">
+
+    
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:id="@+id/imageviewId"
+        android:src="@mipmap/ic_launcher"
+        android:scaleType="fitXY"
+        />
+    <TextView
+        android:textIsSelectable="true"
+        android:layout_margin="5dp"
+        android:id="@+id/textviewId"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#0B0A0A"
+
+        android:layout_marginTop="10dp"
+
+        />
+
+</androidx.appcompat.widget.LinearLayoutCompat>
